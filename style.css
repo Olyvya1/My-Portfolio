@@ -190,6 +190,7 @@ text-align: center;
     position: relative;
     overflow: hidden;
     text-align: center;
+<<<<<<< HEAD
 }
 .cute .img{
     font-size: 50px;
@@ -223,4 +224,6 @@ margin-bottom: 25px;
     border: 2px solid #f9004d;
     background-color: transparent;
     cursor: pointer
+=======
+>>>>>>> 30a12d7447d6920af4b7e4a75196d9fac3b243b8
 }
